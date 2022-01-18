@@ -75,6 +75,15 @@ Check The Full Roadmap : [Roadmap](https://whimsical.com/flutter-roadmap-2022-PC
 * [Udemy - The Complete 2020 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)  
 * [Udemy - Flutter & Firebase: Build a Complete App for iOS & Android](https://www.udemy.com/course/flutter-firebase-build-a-complete-app-for-ios-android/) 
 
+
+## State management
+
+- [Bloc](https://github.com/felangel/bloc)  - Collection of packages that help implement the BLoC design pattern by [Felix Angelov](https://github.com/felangel).
+- [MobX](https://github.com/mobxjs/mobx.dart)  - Supercharge the state-management in your apps with Transparent Functional Reactive Programming (TFRP). Port of MobX from the Js/React land.
+- [Provider](https://github.com/rrousselGit/provider)  - State-management library for Flutter by [Remi Rousselet](https://github.com/rrousselGit).
+- [RiverPod](https://github.com/rrousselGit/river_pod)  - Provider, but different by [Remi Rousselet](https://github.com/rrousselGit).
+- [GetX](https://github.com/jonataslaw/getx) - Contextless, State-management & navigation by [Jonny Borges](https://github.com/jonataslaw).
+
 ## Testing
 
 - [Testing Flutter Apps](https://medium.com/flutter-community/flutter-scalable-folder-files-structure-8f860faafebd)
