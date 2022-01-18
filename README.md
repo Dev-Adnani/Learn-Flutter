@@ -66,6 +66,15 @@ Check The Full Roadmap : [Roadmap](https://whimsical.com/flutter-roadmap-2022-PC
 - [Learn Google Flutter Fast: 65 Example Apps](https://www.amazon.com/Learn-Google-Flutter-Fast-Example/dp/1092297375) - Learn Google Flutter by example. Over 65 example mini-apps.
 - [Practical Flutter Improve your Mobile Development with Google’s Latest Open-Source SDK](https://www.amazon.com/Practical-Flutter-Improve-Development-Open-Source-ebook/dp/B07VJ7FDN5) - Concise practical examples for quick and easy build
 
+## Courses
+
+* [Udacity - Build Native Mobile Apps With Flutter](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905) 
+* [Angela Yu on Youtube - How to Build Flutter Apps for iOS and Android](https://www.youtube.com/playlist?list=PLSzsOkUDsvdtl3Pw48-R8lcK2oYkk40cm)  
+* [Udemy - Learn Flutter Begginers Course](https://www.udemy.com/learn-flutter-beginners-course/)
+* [Udemy - Learn Flutter & Dart to Build iOS & Android Apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) 
+* [Udemy - The Complete 2020 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)  
+* [Udemy - Flutter & Firebase: Build a Complete App for iOS & Android](https://www.udemy.com/course/flutter-firebase-build-a-complete-app-for-ios-android/) 
+
 ## Testing
 
 - [Testing Flutter Apps](https://medium.com/flutter-community/flutter-scalable-folder-files-structure-8f860faafebd)
