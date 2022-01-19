@@ -58,6 +58,66 @@ Check The Full Roadmap : [Roadmap](https://whimsical.com/flutter-roadmap-2022-PC
 - [London App Brewery](https://www.youtube.com/channel/UCVD5Vh9LhLBxp3o1vRNyf_w) - The best channel to learn Flutter.
 - [Tech with Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-knQWGK2IC49Q_5AnQrFpzv) - Great tutorials for beginners.
 
+
+## Articles, Tutorials, Blogs etc.
+
+* [Flutter-io @ Medium](https://medium.com/flutter-io)
+* [Zero to one with Flutter @ Medium](https://medium.com/flutter-io/zero-to-one-with-flutter-43b13fd7b354)
+* [Planets-Flutter: From design to app](https://sergiandreplace.com//tags/flutter/)
+* [Flutter routes and Navigation @ Medium](https://proandroiddev.com/flutter-routes-and-navigation-69f128a9ea8f)
+* [Translating App from RN to Flutter](https://blog.geekyants.com/we-rebuilt-a-react-native-app-with-flutter-4160f0499a82)
+* [How to build a Simple App in Under an Hour From Scratch @ Medium](https://proandroiddev.com/flutter-how-i-built-a-simple-app-in-under-an-hour-from-scratch-and-how-you-can-do-it-too-6d8e7fe6c91b)
+* [Creating medium’s clap animation in flutter](https://medium.com/@Kartik1607/flutter-animation-creating-mediums-clap-animation-in-flutter-3168f047421e)
+* [Build your own plugin for flutter](https://proandroiddev.com/build-your-own-plugin-for-flutter-cfee1a08ea3a)
+* [Flutter, ListView and GridView with TabBar](https://medium.com/@vigneshprakash15/flutter-listview-and-gridview-with-tabbar-221516518c75)
+* [Getting Your Hands Dirty with Flutter: Basic Animations](https://proandroiddev.com/getting-your-hands-dirty-with-flutter-basic-animations-6b9f21fa7d17)
+* [Pinterest-Style Photo Grids](https://medium.com/@ezra_69528/flutter-pinterest-style-photo-grids-b99289584b71)
+* [Forms in Flutter](https://medium.com/@anilcan/forms-in-flutter-6e1364eafdb5)
+* [Login Form Animation](https://blog.geekyants.com/flutter-login-animation-ab3e6ed4bd19)
+* [Animating Appbar like Instagram](https://flutterdoc.com/animating-app-bars-in-flutter-cf034cd6c68b)
+* [Dynamic Home Page](https://medium.com/@anilcan/how-to-use-dynamic-home-page-in-flutter-83080da07012)
+* [Bubble tab indicator for TabBar](https://android.jlelse.eu/flutter-bubble-tab-indicator-for-tabbar-dd038f1076d3)
+* [Input widgets](http://tphangout.com/flutter-input-widgets/)
+* [Building a snapchat-like interface in Flutter](https://medium.com/@kr1uz/building-a-snapchat-like-interface-in-flutter-aafb7e59c8a5)
+* [Flutter Layouts Walkthrough: Row, Column, Stack, Expanded, Padding](https://github.com/bizz84/layout-demo-flutter)
+* [Localization tutorial](https://proandroiddev.com/flutter-localization-step-by-step-30f95d06018d)
+* [BoxDecoration Cheat Sheet](https://medium.com/jlouage/flutter-boxdecoration-cheat-sheet-72cedaa1ba20)
+* [How to dynamically change the theme in Flutter](https://proandroiddev.com/how-to-dynamically-change-the-theme-in-flutter-698bd022d0f0)
+* [Simple Milky Way animation with Flutter](https://medium.com/@duytq94/simple-milky-way-animation-with-flutter-1ea936c145bf)
+* [Bottom Modal Sheets](https://flutterdoc.com/bottom-sheets-in-flutter-ec05c90453e7)
+* [Launching Flutter Task Listing App Theme](https://blog.geekyants.com/launching-flutter-task-listing-app-75ab70cfd713)
+* [Restaurant animation with Flutter](https://medium.com/@duytq94/restaurant-animation-with-flutter-cbe704b4e20f)
+* [Text & Barcode Scanner App with Firebase ML Kit](https://medium.com/@alfianlosari/flutter-text-barcode-scanner-app-with-firebase-ml-kit-103db6b6dad7)
+* [Steppers and Form in Flutter](https://medium.com/@aseemwangoo/steppers-and-form-in-flutter-49cda857230c)
+* [Easily navigate through your Flutter code by separating view and view-model](https://blog.usejournal.com/easily-navigate-through-your-flutter-code-by-separating-view-and-view-model-240026191106)
+* [Creating draggable scrollbar](https://medium.com/flutter-community/creating-draggable-scrollbar-in-flutter-a0ae8cf3143b)
+* [Animations in Flutter](https://proandroiddev.com/animations-in-flutter-6e02ee91a0b2)
+* [Swipe for more action widget](https://medium.com/@info_67212/flutter-swipe-your-widget-for-more-action-items-2b85866ca238)
+* [Beautiful List UI and Detail page](https://proandroiddev.com/flutter-thursday-02-beautiful-list-ui-and-detail-page-a9245f5ceaf0)
+* [Displaying Dynamic Contents using ListView.builder](https://medium.com/@DakshHub/flutter-displaying-dynamic-contents-using-listview-builder-f2cedb1a19fb)
+* [Unit and Widget Tests in Depth](https://medium.com/coding-with-flutter/flutter-unit-and-widget-tests-in-depth-b059b09bc692)
+* [UI CHALLENGE – FLIGHT SEARCH](https://marcinszalek.pl/flutter/ui-challenge-flight-search/)
+* [Mapbox and Polylines](http://tphangout.com/flutter-mapbox-and-polylines/)
+* [Flutter Crush](https://medium.com/flutter-community/flutter-crush-debee5f389c3)
+* [Adding Google Maps to Flutter](https://medium.com/flutter-io/google-maps-and-flutter-cfb330f9a245)
+* [GPS Geolocation Tutorial](https://morioh.com/p/832f968ed090/flutter-gps-geolocation-tutorial)
+* [Get A User’s Location In Flutter](https://medium.com/flutter-community/get-a-users-location-in-flutter-20f488ac8043)
+* [How to code sign & publish iOS apps](https://blog.codemagic.io/how-to-code-sign-publish-ios-apps/)
+* [Continuous Integration and Deployment with Flutter and Fastlane](https://medium.com/@arneolaim/continuous-integration-and-deployment-with-flutter-and-fastlane-a927014723e1)
+* [Using SharedPreferences in Flutter](https://medium.com/flutterdevs/using-sharedpreferences-in-flutter-251755f07127)
+* [How to parse Json in Flutter for Beginners](https://medium.com/flutter-community/how-to-parse-json-in-flutter-for-beginners-8074a68d7a79)
+* [Create Custom Component](https://santoshanand.me/2019/05/04/create-custom-component/)
+* [A Guide to Using Futures in Flutter for Beginners](https://medium.com/flutter-community/a-guide-to-using-futures-in-flutter-for-beginners-ebeddfbfb967)
+* [Build a Location Service in Flutter](https://medium.com/flutter-community/build-a-location-service-in-flutter-367a1b212f7a)
+* [Stateful vs Stateless Widgets](https://medium.com/flutter-community/flutter-stateful-vs-stateless-db325309deae)
+* [Flutter Passwordless Authentication](https://medium.com/@hajola/flutter-passwordless-authentication-a-guide-for-phone-email-login-6759252f4e)
+* [To-do List in Flutter with SQLite as local database](https://medium.com/@abeythilakeudara3/to-do-list-in-flutter-with-sqlite-as-local-database-8b26ba2b060e)
+* [The Ultimate Javascript vs Dart Syntax Guide](https://flutterigniter.com/ultimate-javascript-dart-syntax-guide/)
+* [Implement Real-time Location Updates on Google Maps in your Flutter Apps](https://medium.com/flutter-community/implement-real-time-location-updates-on-google-maps-in-flutter-235c8a09173e)
+* [Monitor Your Flutter App’s Health End to End With GitHub Actions](https://medium.com/better-programming/monitor-your-flutter-apps-health-end-to-end-with-github-actions-8a9fb1889c6a)
+* [Using MQTT With Flutter to Build a Location Sharing App](https://medium.com/swlh/using-mqtt-with-flutter-to-build-a-location-sharing-app-24e7307b21d3)
+* [Apple Sign In with Flutter & Firebase Authentication](https://codewithandrea.com/videos/2020-01-20-apple-sign-in-flutter-firebase/)
+
 ## Books
 
 - [Flutter Complete Reference](https://fluttercompletereference.com/) - Complete reference to Flutter developement, including examples.
@@ -103,9 +163,12 @@ Check The Full Roadmap : [Roadmap](https://whimsical.com/flutter-roadmap-2022-PC
 - [Geeky Ant's Flutter](https://blog.geekyants.com/flutter/home)
 - [Flutter Gems](https://fluttergems.dev/)
 
-## Contributing
+## Guidelines
 
-_Great Quality commitments are invited. Simply don't make malicious bad quality commitments like adding an additional a space._
+* Please make an individual pull request for each suggestion
+* Use the following format for links: \[Resource\]\(URL\)
+* New categories or improvements to the existing categorization are welcome
+
 
 ## Support Me
 
